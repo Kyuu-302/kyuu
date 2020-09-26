@@ -2,7 +2,7 @@ package json;
 
 public class Book {
 	private String name;
-	private double price;
+	private float price;
 	private String author;
 
 	public Book() {
